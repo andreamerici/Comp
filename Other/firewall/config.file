@@ -1,0 +1,17 @@
+allow {
+
+  leoncini@unimore.it
+  mauro.andreolini@unimore.it
+  giacomo.cabri@unimore.it
+  leoncini@iit.cnr.it
+
+}
+
+deny {
+
+  leoncini@gmail.com
+  leoncini@yahoo.com
+  mauro.andreolini@excite.com
+
+}
+

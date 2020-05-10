@@ -1,0 +1,14 @@
+Riconoscimento/Credits
+
+I file in questa cartella sono un adattamento per il corso
+di LFC del programma descritto nel libro:
+- Levine, Mason, Brown, Lex & Yacc, O'Reilly.
+esempi da 3.4 a 3.7
+
+Adapted from Levine, Mason, Brown, Lex & Yacc, O'Reilly.
+Examples 3.4, 3.5, 3.6, and 3.7, adapted to the LFC
+course by M. Leoncini.
+
+Per compilare i file basta digitare "make all"
+E' necessario avere installato Bison e Flex
+
